@@ -1,0 +1,17 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+  .all>div{
+	  height:300px;
+	  border : 1px solid #ccc;
+	  margin-bottom: 15px;
+      object-fit:cover;
+  }
+  
+ .col-md-3 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+ }
